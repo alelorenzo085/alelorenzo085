@@ -7,13 +7,11 @@
 
 - 👯 Colaboro con [IES Castillo de Luna](https://github.com/iescastillodeluna/)
 
-- 👨‍💻 Todos mis repositorios [https://github.com/alelorenzo085](https://github.com/alelorenzo085)
+- 👨‍💻 Todos mis repositorios - [https://github.com/alelorenzo085](https://github.com/alelorenzo085)
 
-- 📫 Para contactar conmigo **alormel012@g.educaand.es**
+- 📫 Para contactar conmigo - **alormel012@g.educaand.es**
 
-- 📄 Conoce mis experiencias [(No tengo)]((No tengo))
-
-- ⚡ Skills **Trabajador, autónomo y cooperativo**
+- ⚡ Skills - **Trabajador, autónomo y cooperativo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
