@@ -1,4 +1,4 @@
-<h1 align="center">¡Buenas! Soy Alejandro Lorenzo Mellado</h1>
+<h1 align="center">¡Buenas! Soy Alejandro Lorenzo</h1>
 <h3 align="center">Estudiante en el IES Castillo de Luna de DAM</h3>
 
 - 🔭 Estoy trabajando en [Proyecto Final de Grado](https://github.com/alelorenzo085/ProyectoFinDeGrado)
