@@ -10,9 +10,9 @@
 
 ###
 
-- 🔭 Estoy trabajando en [Proyecto Final de Grado](https://github.com/alelorenzo085/ProyectoFinDeGrado)
+- 🔭 Estoy trabajando en [Proyecto Intermodular](https://github.com/alelorenzo085/ProyectoFinDeGrado)
 
-- 🌱 Estoy aprendiendo... **Java, DAO, Python, SQL**
+- 🌱 Estoy aprendiendo... **Java, DAO, Python, SQL, Godot**
 
 - 👯 Colaboro con [IES Castillo de Luna](https://github.com/iescastillodeluna/)
 
