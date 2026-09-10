@@ -1,5 +1,5 @@
 <h1 align="center">¡Buenas! Soy Alejandro Lorenzo</h1>
-<h3 align="center">Estudiante en el IES Castillo de Luna de DAM</h3>
+<h3 align="center">Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</h3>
 
 ###
 
@@ -12,13 +12,13 @@
 
 - 🔭 Estoy trabajando en [Proyecto Intermodular](https://github.com/alelorenzo085/ProyectoFinDeGrado)
 
-- 🌱 Estoy aprendiendo... **Java, DAO, Python, SQL, Godot**
+- 🌱 Sé lenguajes como... **Java, C#, Python, SQL, Godot, React**
 
-- 👯 Colaboro con [IES Castillo de Luna](https://github.com/iescastillodeluna/)
+- 👯 He colaborado con [IES Castillo de Luna](https://github.com/iescastillodeluna/)
 
 - 👨‍💻 Todos mis repositorios - [https://github.com/alelorenzo085](https://github.com/alelorenzo085)
 
-- 📫 Para contactar conmigo - **alormel012@g.educaand.es**
+- 📫 Para contactar conmigo - **alelorenzo081@gmail.com**
 
 - ⚡ Skills - **Trabajador, autónomo y cooperativo**
 
